@@ -1,0 +1,56 @@
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+::1 - - [17/Aug/2023:03:09:27 +0000] "POST /api/v1/auth/categories HTTP/1.1" 400 270 "-" "PostmanRuntime/7.32.3"
+[0mPOST /api/v1/auth/categories [33m400[0m 10048.839 ms - 270[0m
+::1 - - [17/Aug/2023:03:10:11 +0000] "POST /api/v1/accounts/login HTTP/1.1" 401 64 "-" "PostmanRuntime/7.32.3"
+[0mPOST /api/v1/accounts/login [33m401[0m 8294.070 ms - 64[0m
+::1 - - [17/Aug/2023:03:11:35 +0000] "POST /api/v1/accounts/login HTTP/1.1" 401 64 "-" "PostmanRuntime/7.32.3"
+[0mPOST /api/v1/accounts/login [33m401[0m 222.639 ms - 64[0m
+::1 - - [17/Aug/2023:03:11:37 +0000] "POST /api/v1/accounts/login HTTP/1.1" 401 64 "-" "PostmanRuntime/7.32.3"
+[0mPOST /api/v1/accounts/login [33m401[0m 275.234 ms - 64[0m
+API V2.1 started to listening on port 443
+::1 - - [17/Aug/2023:03:20:17 +0000] "POST /api/v1/accounts/create HTTP/1.1" 404 162 "-" "PostmanRuntime/7.32.3"
+[0mPOST /api/v1/accounts/create [33m404[0m 54.471 ms - 162[0m
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 443
+API V2.1 started to listening on port 3000
+::1 - - [19/Aug/2023:02:05:59 +0000] "POST /api/v1/accounts/login HTTP/1.1" 401 64 "-" "PostmanRuntime/7.32.3"
+[0mPOST /api/v1/accounts/login [33m401[0m 447.842 ms - 64[0m
+::1 - - [19/Aug/2023:02:06:10 +0000] "GET /api/v1/books HTTP/1.1" 200 567 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:06:54 +0000] "GET /api/v1/categories HTTP/1.1" 200 69 "-" "PostmanRuntime/7.32.3"
+API V2.1 started to listening on port 3000
+API V2.1 started to listening on port 3000
+API V2.1 started to listening on port 3000
+API V2.1 started to listening on port 3000
+API V2.1 started to listening on port 3000
+API V2.1 started to listening on port 3000
+API V2.1 started to listening on port 3000
+::1 - - [19/Aug/2023:02:16:16 +0000] "GET /api/v1/categories HTTP/1.1" 200 873 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:19:19 +0000] "GET /api/v1/categories/1 HTTP/1.1" 200 13 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:19:22 +0000] "GET /api/v1/categories/2 HTTP/1.1" 200 13 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:19:25 +0000] "GET /api/v1/categories/ HTTP/1.1" 200 873 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:19:33 +0000] "GET /api/v1/categories/:1 HTTP/1.1" 200 14 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:19:41 +0000] "GET /api/v1/categories/ HTTP/1.1" 200 873 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:19:53 +0000] "GET /api/v1/categories/1 HTTP/1.1" 200 13 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:20:42 +0000] "GET /api/v1/categories/1 HTTP/1.1" 200 13 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:20:52 +0000] "GET /api/v1/categories/1 HTTP/1.1" 200 13 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:20:55 +0000] "GET /api/v1/categories/1 HTTP/1.1" 200 13 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:20:56 +0000] "GET /api/v1/categories/1 HTTP/1.1" 200 13 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:21:01 +0000] "GET /api/v1/categories/1 HTTP/1.1" 200 13 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:21:05 +0000] "GET /api/v1/categories/2 HTTP/1.1" 200 13 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:22:23 +0000] "GET /api/v1/categories HTTP/1.1" 200 873 "-" "PostmanRuntime/7.32.3"
+::1 - - [19/Aug/2023:02:23:02 +0000] "GET /api/v1/categories HTTP/1.1" 200 873 "-" "PostmanRuntime/7.32.3"
+API V2.1 started to listening on port 3000
+API V2.1 started to listening on port 3000
+::1 - - [19/Aug/2023:02:23:33 +0000] "GET /api/v1/categories/1 HTTP/1.1" 200 70 "-" "PostmanRuntime/7.32.3"
