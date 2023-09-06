@@ -265,6 +265,7 @@ module.exports = {
                             },
                         );
                     } else {
+                        console.log(error)
                         return rest.sendError(res, 401, 'wrong_password', 401, null);
                     }
                 });
