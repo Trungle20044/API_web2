@@ -34,7 +34,7 @@
     "env_demo" : {
       "NODE_ENV": "demo",
       "NODE_PORT":3000,
-      "DB_HOST":"localhost",
+      "DB_HOST":"db4free.net",
       "DB_PORT": "3306",
       "DB_USER": "trungle224",
       "DB_PASSWORD": "123123123!@#",

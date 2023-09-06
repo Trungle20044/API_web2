@@ -246,6 +246,7 @@ module.exports = {
             'use strict';
             if (account) {
                 bCrypt.compare( password, account.password, function(error, result) {
+                    console.log(error)
                     if (result === true) {
                         const payload = {
                             id: account.id,
@@ -265,7 +266,6 @@ module.exports = {
                             },
                         );
                     } else {
-                        console.log(error)
                         return rest.sendError(res, 401, 'wrong_password', 401, null);
                     }
                 });
