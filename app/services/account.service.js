@@ -234,6 +234,10 @@ module.exports = {
         const login_name = req.body.login_name || '';
         const password = req.body.password || '';
 
+        console.log(login_name)
+
+        console.log(password)
+
         const where = {login_name: login_name};
         const attributes = ['id', 'login_name', 'password', 'full_name'];
         account.findOne( {
