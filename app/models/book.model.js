@@ -25,6 +25,10 @@ const book = mySequel.define('book', {
         type: sequel.BIGINT(20),
         allowNull: false,
     },
+    account_id: {
+        type: sequel.INTEGER(11),
+        allowNull: true,
+    },
     created_by: {
         type: sequel.BIGINT(20),
         allowNull: false,

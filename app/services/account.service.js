@@ -13,8 +13,47 @@ const jsonWebToken = require('jsonwebtoken');
 
 module.exports = {
     register: function(req, res) {
-        const out = { title: 'account', action: 'register'};
-        return rest.sendSuccessOne(res, out, 200);
+        const full_name = req.body.fullname || '';
+        const login_name = req.body.login_name || '';
+        const password = req.body.password || '';
+
+        var currentDateTime = new Date();
+        var year = currentDateTime.getFullYear();
+        var month = ('0' + (currentDateTime.getMonth() + 1)).slice(-2);
+        var day = ('0' + currentDateTime.getDate()).slice(-2);
+        var hours = ('0' + currentDateTime.getHours()).slice(-2);
+        var minutes = ('0' + currentDateTime.getMinutes()).slice(-2);
+        var seconds = ('0' + currentDateTime.getSeconds()).slice(-2);
+
+        var formattedDateTime = year + '-' + month + '-' + day + ' ' + hours + ':' + minutes + ':' + seconds;
+
+        account.findOne({ where: { login_name: login_name } }).then((existingAccount) => {
+            if (existingAccount) {
+              return rest.sendError(res, 409, 'account_exists', 409, null);
+            } else {
+              bCrypt.hash(password, 10, function(error, hashedPassword) {
+                if (error) {
+                  return rest.sendError(res, 500, 'password_hash_error', 500, error);
+                } else {
+                    account.create({
+                        login_name,
+                        password: hashedPassword,
+                        full_name,
+                        created_by: 1,
+                        updated_by: 1,
+                        create_at: formattedDateTime,
+                        updated_at: formattedDateTime
+                    }).then((newAccount) => {
+                        return rest.sendSuccessOne(res, newAccount, 200);
+                    }).catch((error) => {
+                        return rest.sendError(res, 500, 'account_create_error', 500, error);
+                    });
+                }
+              });
+            }
+          }).catch((error) => {
+            return rest.sendError(res, 500, 'account_check_error', 500, error);
+          });
     },
 
     create: function(req, res) {

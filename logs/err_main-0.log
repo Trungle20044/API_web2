@@ -1,0 +1,240 @@
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)
+D:\Web2_final\api doc_main\app\services\book.service.js:62
+        console.log(const token = req.header("Authorization"))
+                    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at Hook._require.Module.require (C:\Users\Admin\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (D:\Web2_final\api doc_main\app\routes\book.route.js:5:21)

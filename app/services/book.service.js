@@ -17,6 +17,7 @@ module.exports = {
             query.category = req.body.category;
             query.author = req.body.author;
             query.parts = req.body.parts;
+            query.account_id = req.body.accessAccountId;
 
             book.create(query).then((result)=>{
                 'use strict';
@@ -58,8 +59,9 @@ module.exports = {
 
     getAll: function(req, res) {
         const query = req.query || '';
+
         try {
-            const where = {};
+            const where = {account_id: req.query.accessAccountId};
             let page = 1;
             let perPage = 10;
             const sort = [];
